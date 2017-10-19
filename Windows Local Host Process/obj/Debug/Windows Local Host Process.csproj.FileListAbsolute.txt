@@ -11,3 +11,16 @@ C:\Users\B2C\source\repos\Windows Local Host Process\Windows Local Host Process\
 C:\Users\B2C\source\repos\Windows Local Host Process\Windows Local Host Process\obj\Debug\dje\Windows Local Host Process.resources.dll
 C:\Users\B2C\source\repos\Windows Local Host Process\Windows Local Host Process\obj\Debug\Windows Local Host Process.exe
 C:\Users\B2C\source\repos\Windows Local Host Process\Windows Local Host Process\obj\Debug\Windows Local Host Process.pdb
+C:\Users\B2C\Source\Repos\KeyLogger\Windows Local Host Process\bin\Debug\Windows Local Host Process.exe.config
+C:\Users\B2C\Source\Repos\KeyLogger\Windows Local Host Process\bin\Debug\Windows Local Host Process.exe
+C:\Users\B2C\Source\Repos\KeyLogger\Windows Local Host Process\bin\Debug\Windows Local Host Process.pdb
+C:\Users\B2C\Source\Repos\KeyLogger\Windows Local Host Process\bin\Debug\dje\Windows Local Host Process.resources.dll
+C:\Users\B2C\Source\Repos\KeyLogger\Windows Local Host Process\obj\Debug\Windows Local Host Process.csprojResolveAssemblyReference.cache
+C:\Users\B2C\Source\Repos\KeyLogger\Windows Local Host Process\obj\Debug\Windows_Local_Host_Process.Form1.resources
+C:\Users\B2C\Source\Repos\KeyLogger\Windows Local Host Process\obj\Debug\Windows_Local_Host_Process.Properties.Resources.resources
+C:\Users\B2C\Source\Repos\KeyLogger\Windows Local Host Process\obj\Debug\Windows_Local_Host_Process.Form1.dje.resources
+C:\Users\B2C\Source\Repos\KeyLogger\Windows Local Host Process\obj\Debug\Windows Local Host Process.csproj.GenerateResource.Cache
+C:\Users\B2C\Source\Repos\KeyLogger\Windows Local Host Process\obj\Debug\Windows Local Host Process.csproj.CoreCompileInputs.cache
+C:\Users\B2C\Source\Repos\KeyLogger\Windows Local Host Process\obj\Debug\dje\Windows Local Host Process.resources.dll
+C:\Users\B2C\Source\Repos\KeyLogger\Windows Local Host Process\obj\Debug\Windows Local Host Process.exe
+C:\Users\B2C\Source\Repos\KeyLogger\Windows Local Host Process\obj\Debug\Windows Local Host Process.pdb
