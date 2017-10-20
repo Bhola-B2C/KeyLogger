@@ -37,7 +37,6 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.KeyPreview = true;
             this.Name = "Form1";
-            this.Opacity = 0D;
             this.ShowIcon = false;
             this.ShowInTaskbar = false;
             this.KeyUp += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyUp);
